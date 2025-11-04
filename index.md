@@ -6,7 +6,7 @@ title: Home
 # Fong Vo
 UCSD email: fvo@ucsd.edu
 
-**Section:** A12 Quantifying the credibility of large language model outputs
+**Section:** A12 Quantifying the credibility of large language model outputs  
 **Mentor:** Professor Yian Ma
 
 **What is the most interesting topic covered in your domain this quarter?**  
