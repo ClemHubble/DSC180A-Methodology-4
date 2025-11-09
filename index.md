@@ -13,7 +13,7 @@ UCSD email: fvo@ucsd.edu
 The most interesting topic for me this quarter was model calibration and reliability evaluation. I learned that a model can be accurate overall but still poorly calibrated. In other words, the model's confidence scores don’t always reflect how often it’s actually right. Metrics like Expected Calibration Error (ECE) measure this mismatch between confidence and accuracy. QRC bounds (Quantile Reliability Curves) help visualize and quantify how reliability changes across different confidence levels, and CVaR (Conditional Value at Risk) focuses on the model’s worst-case performance, showing how unreliable it gets on its most uncertain predictions. I found it fascinating how these metrics reveal deeper insights into how trustworthy a model really is, beyond just its accuracy score.  
 
 **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**  
-Answer2
+I might investigate other large language models beyond Llama 8B and see how they perform in terms of accuracy, ECE, QRC bounds, and CVaR on other open-ended datasets.  
 
 **What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**  
 Answer3
