@@ -16,7 +16,7 @@ The most interesting topic for me this quarter was model calibration and reliabi
 I might investigate other large language models beyond Llama 8B and see how they perform in terms of accuracy, ECE, QRC bounds, and CVaR on other open-ended datasets.  
 
 **What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**  
-Answer3
+Another potential change would be to test how calibration behaves across different model architectures or decoding strategies. So far, my project has focused on one model and fixed sampling parameters, but comparing greedy decoding, nucleus sampling, and temperature scaling could reveal how generation strategy influences calibration.  
 
 **What other techniques would you be interested in using in your project?**  
 Answer4
