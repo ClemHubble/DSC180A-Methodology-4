@@ -19,5 +19,5 @@ I might investigate other large language models beyond Llama 8B and see how they
 Another potential change would be to test how calibration behaves across different model architectures or decoding strategies. So far, my project has focused on one model and fixed sampling parameters, but comparing greedy decoding, nucleus sampling, and temperature scaling could reveal how generation strategy influences calibration.  
 
 **What other techniques would you be interested in using in your project?**  
-Answer4
+I’d like to explore conformal prediction techniques to improve model reliability. Conformal prediction is a statistical framework that produces prediction sets rather than single outputs, guaranteeing that the true answer lies within the set at a chosen confidence level (for example, 90% coverage). Unlike standard calibration metrics such as ECE or QRC, which measure how well probabilities match outcomes, conformal prediction provides a formal coverage guarantee for each prediction. Applying this method to open-ended QA tasks could make confidence estimates more interpretable and trustworthy.  
 
